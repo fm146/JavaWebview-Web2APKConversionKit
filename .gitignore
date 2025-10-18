@@ -1,6 +1,5 @@
 *.iml
 .gradle
-/app/src/main/assets/idj_offline
 /local.properties
 /.idea/caches
 /.idea/libraries
